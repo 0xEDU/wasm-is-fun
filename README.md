@@ -12,7 +12,6 @@ You can run the project simply by running `make` to compile the Rust code to Web
 
 ```bash
 make
-
 npx vite
 ```
 
